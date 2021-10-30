@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "singleQuote": true,
     "printWidth": 200,
@@ -8,4 +9,16 @@
     "bracketSpacing": true,
     "jsxBracketSameLine": false,
     "semi": true
+=======
+{
+    "singleQuote": true,
+    "printWidth": 200,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "useTabs": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "semi": true
+>>>>>>> 586a8fa38c8e1695de5b7db0a8c98c9e62ca0fd1
 }
